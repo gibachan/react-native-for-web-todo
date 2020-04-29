@@ -2,6 +2,8 @@
 
 Excersize Todo app created with [React Native for Web](https://github.com/necolas/react-native-web) and stores data on Firebase Firestore.
 
+<img src="images/screen-1.png" width="30%" /> <img src="images/screen-2.png"  width="30%" />
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 **Environment**
